@@ -52,5 +52,5 @@ A complete example for Spring MVC + Hibernate + Maven CRUD operations.
 ## Preview
 ----------
 
-![](http://ctogitlab.wipro.com/AN843289/addressbook/raw/developer/images/AddressBook.png)
+![](https://github.com/ANVESH1981/javaprogramming/blob/master/addressbook/images/AddressBook.png)
 
