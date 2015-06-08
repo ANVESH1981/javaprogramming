@@ -16,7 +16,7 @@ A complete example for Spring MVC + Hibernate + Maven CRUD operations.
 --------------------------------
 
 - Open cmd prompt/git bash from windows->start-> run.
-- Do a git clone http://ctogitlab.wipro.com/AN843289/addressbook.git
+- Do a git clone https://github.com/ANVESH1981/javaprogramming.git
 
 ## How to build the project from Eclipse:
 -----------------------------------------
